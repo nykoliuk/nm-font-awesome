@@ -33,4 +33,5 @@ To access the HTML editor, click on the "HTML" link on the tab at the top right 
 #### Coming Soon
 
 In the near future there will be a PRO version, where you can use all Awesome Icons.
+
 If you want to see PRO version faster or just support me [Donate Link](https://www.paypal.me/MykhailoNykoliuk).
