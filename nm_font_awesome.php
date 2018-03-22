@@ -1,13 +1,13 @@
 <?php
 /*
 Plugin Name: NM Font Awesome 5
-Plugin URI:
+Plugin URI: https://github.com/nykoliuk/nm-font-awesome
 Description: Wordpress plugin that adds the latest version of <a href="https://fontawesome.com/">Font Awesome 5</a> into your WordPress project.
-Version: 1.0.1
+Version: 1.0.0
 Author: Mykhailo Nykoliuk
 Author URI: https://profiles.wordpress.org/nykoliuk/
-License: GPL2
-License URI:  https://www.gnu.org/licenses/gpl-2.0.html
+License: GPLv3
+License URI: https://www.gnu.org/licenses/gpl-3.0.html
 */
 
 if( ! defined( 'NM_FONTAWESOME_MSG' ) ) define( 'NM_FONTAWESOME_MSG', __( 'Cannot access pages directly.', 'nm-font-awesome' ) );
