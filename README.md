@@ -28,3 +28,9 @@ A complete list of icons you can find on [Font Awesome](https://fontawesome.com/
 
 ### 1) HTML
 To access the HTML editor, click on the "HTML" link on the tab at the top right of the text editor window in WordPress.<br /> If you don\'t know how to use Font Awesome in HTML, you can read [Font Awesome Basic Use](https://fontawesome.com/how-to-use/svg-with-js#basic-use).
+
+
+#### Coming Soon
+
+In the near future there will be a PRO version, where you can use all Awesome Icons.
+If you want to see PRO version faster or just support me [Donate Link](https://www.paypal.me/MykhailoNykoliuk).
