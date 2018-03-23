@@ -4,6 +4,8 @@ Donate link: https://www.paypal.me/MykhailoNykoliuk
 Tags: font, font awesome, fontawesome, icons, shortcode
 Requires at least: 4.0
 Tested up to: 4.9.4
+Stable tag: trunk
+Requires PHP: 5.4
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -47,6 +49,10 @@ e.g.
 1. In your WordPress dashboard, head over to the *Plugins* section.
 1. Activate *NM Font Awesome*.
 
+**Coming soon**
+
+In the near future there will be a PRO version, where you can use all Awesome Icons.
+
 == Frequently Asked Questions ==
 
 = If you have questions, suggestions or idea for development. =
@@ -62,5 +68,9 @@ Send me an email to misha.nykoliuk@gmail.com and I will answer you as soon as I 
 
 == Changelog ==
 
-= 1.0.0 =
-* First release!
+= 0.1.0 =
+* Release
+
+== Upgrade Notice ==
+= 0.1.0 =
+* Release
