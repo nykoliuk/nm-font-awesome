@@ -1,9 +1,9 @@
 <?php
 /*
-Plugin Name: NM Font Awesome 5
+Plugin Name: NM Font Awesome
 Plugin URI: https://github.com/nykoliuk/nm-font-awesome
-Description: Wordpress plugin that adds the latest version of <a href="https://fontawesome.com/">Font Awesome 5</a> into your WordPress project.
-Version: 1.0.0
+Description: Wordpress plugin that adds the latest version 5 of <a href="https://fontawesome.com/">Font Awesome</a> into your WordPress project.
+Version: 1.0.1
 Author: Mykhailo Nykoliuk
 Author URI: https://profiles.wordpress.org/nykoliuk/
 License: GPLv3

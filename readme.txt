@@ -1,20 +1,20 @@
-=== NM Font Awesome 5 ===
+=== NM Font Awesome ===
 Contributors: nykoliuk
 Donate link: https://www.paypal.me/MykhailoNykoliuk
-Tags: font, font awesome, icons, shortcode
+Tags: font, font awesome, fontawesome, icons, shortcode
 Requires at least: 4.0
 Tested up to: 4.9.4
 License: GPLv3
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
-Wordpress plugin that adds the latest version of Font Awesome into your WordPress project.
+Wordpress plugin that adds the latest version 5 of Font Awesome into your WordPress project.
 
 == Description ==
 
 NM Font Awersome makes it easy to add vector icons and social logos from [Font Awesome](https://fontawesome.com/) to your website. And version 5 is redesigned and built from the ground up!
 
 = Usage =
-Font Awesome 5 icons can be any of 4 different styles, each with its own prefix.
+Font Awesome version 5 icons can be any of 4 different styles, each with its own prefix.
 In the free version of the plugin, you can use only 2 styles:
 * **Solid**, with style prefix `fas`
 * **Brands**, with style prefix `fab`
@@ -45,7 +45,7 @@ e.g.
 1. Unzip the `nm-font-awesome.zip` folder, or install the plugin through the WordPress plugins screen directly.
 1. Upload the `nm-font-awesome` folder to your `/wp-content/plugins directory`.
 1. In your WordPress dashboard, head over to the *Plugins* section.
-1. Activate *NM Font Awesome 5*.
+1. Activate *NM Font Awesome*.
 
 == Frequently Asked Questions ==
 

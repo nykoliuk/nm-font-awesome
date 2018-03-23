@@ -4,12 +4,12 @@
  */
 function nm_fontwesome_menu() {
     add_menu_page(
-        'NM Font Awesome 5',
-        'Font Awesome 5',
+        'NM Font Awesome',
+        'Font Awesome',
         'manage_options',
         'nm_fontawesome',
         'nm_fontwesome_options',
-        plugins_url( 'nm-font-awesome/public/images/font-awesome-flag.png' ),
+        plugins_url( 'public/images/menu-icon.png', dirname(__FILE__) ),
         80
     );
 }
@@ -19,11 +19,11 @@ add_action( 'admin_menu', 'nm_fontwesome_menu' );
  * Display a custom menu page
  */
  function nm_fontwesome_options() {
-    echo '<h1>NM Font Awesome 5</h1>';
+    echo '<h1>NM Font Awesome</h1>';
  	echo '<div class="wrap">';
- 	echo '<p>NM Font Awersome makes it easy to add vector icons and social logos from the latest version of <a href="https://fontawesome.com/">Font Awesome</a> to your website.</p>';
+ 	echo '<p>NM Font Awersome makes it easy to add vector icons and social logos from the latest version of <a href="https://fontawesome.com/">Font Awesome v5</a> to your website.</p>';
     echo '<h3 style="margin-bottom: 10px;">USAGE</h3>';
-    echo '<p style="margin: 0;">Font Awesome 5 icons can be any of 4 different styles, each with its own prefix.</p>';
+    echo '<p style="margin: 0;">Font Awesome icons can be any of 4 different styles, each with its own prefix.</p>';
     echo '<p style="margin: 0;">In the free version of the plugin, you can use only 2 styles:</p>';
     echo '<ul style="list-style-type: circle;padding-left:30px;">';
     echo '<li><b>Solid</b>, with style prefix <code>fas</code>';
