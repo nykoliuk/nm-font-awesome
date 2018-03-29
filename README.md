@@ -29,7 +29,10 @@ Where the name is the name of the class of the icon that you want to add.
 
 A complete list of icons you can find on [Font Awesome](https://fontawesome.com/icons).
 
-### 1) HTML
+### 2) HTML
+Select the desired icon in the drop-down menu.
+
+### 3) HTML
 To access the HTML editor, click on the "HTML" link on the tab at the top right of the text editor window in WordPress.<br /> If you don\'t know how to use Font Awesome in HTML, you can read [Font Awesome Basic Use](https://fontawesome.com/how-to-use/svg-with-js#basic-use).
 
 

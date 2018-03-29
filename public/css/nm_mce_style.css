@@ -1,0 +1,26 @@
+i.mce-i-nm.fab,
+i.mce-i-nm.fab:before {
+    font-family: Font Awesome\ 5 Brands !important;
+    font-weight: normal !important;
+    font-style: normal !important;
+}
+i.mce-i-nm.far,
+i.mce-i-nm.far:before {
+    font-family: Font Awesome\ 5 Free !important;
+    font-weight: 400 !important;
+    font-style: normal !important;
+}
+i.mce-i-nm.fas,
+i.mce-i-nm.fas:before {
+    font-family: Font Awesome\ 5 Free !important;
+    font-weight: 900 !important;
+    font-style: normal !important;
+}
+.mce-menubtn .fa-font-awesome-flag,
+.mce-menubtn .fa-font-awesome-flag + .mce-txt {
+    color: #228ae6 !important;
+}
+.mce-menubtn .fa-font-awesome-flag + .mce-txt + .mce-caret {
+    border-bottom-color: #228ae6 !important;
+    border-top-color: #228ae6 !important;
+}

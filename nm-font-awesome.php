@@ -3,7 +3,7 @@
 Plugin Name: NM Font Awesome
 Plugin URI: https://wordpress.org/plugins/nm-font-awesome/
 Description: Wordpress plugin that adds the latest version 5 of <a href="https://fontawesome.com/">Font Awesome</a> into your WordPress project.
-Version: 0.1.0
+Version: 0.1.1
 Author: Mykhailo Nykoliuk
 Author URI: https://profiles.wordpress.org/nykoliuk/
 License: GPLv3
@@ -23,7 +23,7 @@ require_once NM_FONTAWESOME_PLUGIN_DIR . 'includes/nm-font-awesome-shortcode.php
 // Enqueue Font Awesome.
 add_action( 'wp_enqueue_scripts', 'nm_font_awesome' );
 function nm_font_awesome() {
-    wp_enqueue_script( 'nm-fontawesome', 'https://use.fontawesome.com/releases/v5.0.8/js/all.js', array(), null );
+    wp_enqueue_script( 'nm-fontawesome', 'https://use.fontawesome.com/releases/v5.0.9/js/all.js', array(), null );
 }
 
 add_filter( 'script_loader_tag', 'add_nm_defer_attribute', 10, 3 );
