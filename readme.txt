@@ -79,6 +79,9 @@ Send me an email to misha.nykoliuk@gmail.com and I will answer you as soon as I 
 * Add TinyMCE support
 * Update Font Awesome to 5.0.9
 
+= 0.1.2 =
+* fixed bugs
+
 == Upgrade Notice ==
 = 0.1.0 =
 * Release
@@ -86,3 +89,6 @@ Send me an email to misha.nykoliuk@gmail.com and I will answer you as soon as I 
 = 0.1.1 =
 * Add TinyMCE support
 * Update Font Awesome to 5.0.9
+
+= 0.1.2 =
+* fixed bugs

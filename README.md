@@ -29,7 +29,7 @@ Where the name is the name of the class of the icon that you want to add.
 
 A complete list of icons you can find on [Font Awesome](https://fontawesome.com/icons).
 
-### 2) HTML
+### 2) TINYMCE
 Select the desired icon in the drop-down menu.
 
 ### 3) HTML
