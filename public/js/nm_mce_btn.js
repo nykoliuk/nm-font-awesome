@@ -2,7 +2,7 @@
     tinymce.PluginManager.add('nm_fontawesome_btn', function( editor, url ) {
 
         var items = [];
-        jQuery.getJSON( "/wp-content/plugins/nm-font-awesome/public/metadata/icons5-0-13.json", function( data ) {
+        jQuery.getJSON( "/wp-content/plugins/nm-font-awesome/public/metadata/icons5-1-0.json", function( data ) {
 
             jQuery.each( data, function( key, val ) {
                 jQuery.each( val.styles, function( i, val2 ) {
