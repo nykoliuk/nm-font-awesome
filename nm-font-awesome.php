@@ -23,7 +23,7 @@ require_once NM_FONTAWESOME_PLUGIN_DIR . 'includes/nm-font-awesome-shortcode.php
 // Enqueue Font Awesome.
 add_action( 'wp_enqueue_scripts', 'nm_font_awesome' );
 function nm_font_awesome() {
-    wp_enqueue_script( 'nm-fontawesome', 'https://use.fontawesome.com/releases/v5.1.0/js/all.js', array(), null );
+    wp_enqueue_script( 'nm-fontawesome', 'https://use.fontawesome.com/releases/v5.1.1/js/all.js', array(), null );
 }
 
 add_filter( 'script_loader_tag', 'add_nm_defer_attribute', 10, 3 );
