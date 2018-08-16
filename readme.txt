@@ -97,6 +97,9 @@ Send me an email to misha.nykoliuk@gmail.com and I will answer you as soon as I 
 = 0.1.7 =
 * Update Font Awesome to 5.1.1
 
+= 0.1.8 =
+* Update Font Awesome to 5.2.0
+
 == Upgrade Notice ==
 = 0.1.0 =
 * Release
@@ -122,3 +125,6 @@ Send me an email to misha.nykoliuk@gmail.com and I will answer you as soon as I 
 
 = 0.1.7 =
 * Update Font Awesome to 5.1.1
+
+= 0.1.8 =
+* Update Font Awesome to 5.2.0
