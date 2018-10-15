@@ -85,7 +85,7 @@ function nm_fontawesome_register_mce_button($buttons) {
 }
 
 function nm_fontawesome_admin_style() {
-    wp_enqueue_style( 'font-awesome-5', 'https://use.fontawesome.com/releases/v5.3.1/css/all.css' );
+    wp_enqueue_style( 'font-awesome-5', 'https://use.fontawesome.com/releases/v5.4.1/css/all.css' );
     wp_enqueue_style( 'font-awesome-mce', plugins_url( 'public/css/nm_mce_style.css', dirname(__FILE__) ) );
 }
 
