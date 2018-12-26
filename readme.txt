@@ -1,6 +1,6 @@
 === NM Font Awesome ===
 Contributors: nykoliuk
-Donate link: https://www.paypal.me/MykhailoNykoliuk
+Donate link: https://www.liqpay.ua/ru/checkout/card/nykoliuk
 Tags: font, font awesome, fontawesome, icon, icons
 Requires at least: 4.0
 Tested up to: 4.9.4
@@ -112,6 +112,9 @@ Send me an email to misha.nykoliuk@gmail.com and I will answer you as soon as I 
 = 1.0.3 =
 * Update Font Awesome to 5.5.0
 
+= 1.0.4 =
+* Update Font Awesome to 5.6.3
+
 == Upgrade Notice ==
 = 0.1.0 =
 * Release
@@ -152,3 +155,6 @@ Send me an email to misha.nykoliuk@gmail.com and I will answer you as soon as I 
 
 = 1.0.3 =
 * Update Font Awesome to 5.5.0
+
+= 1.0.4 =
+* Update Font Awesome to 5.6.3
