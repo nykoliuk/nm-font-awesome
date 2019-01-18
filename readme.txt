@@ -115,6 +115,9 @@ Send me an email to misha.nykoliuk@gmail.com and I will answer you as soon as I 
 = 1.0.4 =
 * Update Font Awesome to 5.6.3
 
+= 1.0.5 =
+* fixed support v4
+
 == Upgrade Notice ==
 = 0.1.0 =
 * Release
@@ -158,3 +161,6 @@ Send me an email to misha.nykoliuk@gmail.com and I will answer you as soon as I 
 
 = 1.0.4 =
 * Update Font Awesome to 5.6.3
+
+= 1.0.5 =
+* fixed support v4
